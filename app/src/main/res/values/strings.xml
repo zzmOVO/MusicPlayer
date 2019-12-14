@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <!--主页头部-->
+    <string name="main_head_my">我的</string>
+    <string name="main_head_find">搜索</string>
+    <string name="main_head_video">音乐馆</string>
+    <!--主页内容-->
+    <string name="main_content_title_songSheet">我的歌单</string>
+
+    <string name="zzm">zzm</string>
+
+    <string name="menu_delete">删除</string>
+    <string name="menu_addToSheet">添加到歌单</string>
+</resources>
